@@ -2,10 +2,10 @@ name: Update cache key
 on:
   push:
     branches:
-      - master
+      - CHANGES2024
   pull_request:
     branches:
-      - master
+      - CHANGES2024
 jobs:
   build:
     runs-on: ubuntu-latest
