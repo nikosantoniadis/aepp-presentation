@@ -1,15 +1,12 @@
-/* @import url(https://fonts.googleapis.com/css?family=Open+Sans|Fira+Sans+Extra+Condensed|Fira+Mono); */
-@import url(https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Mono);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Fira+Sans+Extra+Condensed|Fira+Mono);
 
 body {
-	/* font-family: 'Open Sans', sans-serif; */
-	font-family: 'Roboto', sans-serif; 
+	font-family: 'Open Sans', sans-serif;
 	font-size: 75%;
 }
 
 h1, h2, h3, h4, h5 {
-	/* font-family: 'Fira Sans Extra Condensed', sans-serif; */
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
 	font-weight: normal;
 }
 
@@ -238,8 +235,7 @@ img {
 	}
 
 .remark-code, .remark-inline-code {
-	/* font-family: 'Fira Mono', monospace; */
-	font-family: 'Roboto Mono', monospace;
+	font-family: 'Fira Mono', monospace;
 	border-radius: .25em;
 }
 
