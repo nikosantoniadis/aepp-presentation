@@ -243,7 +243,7 @@ layout: true
 > - **ανάλυση**, όπου το αρχικό πρόβλημα διασπάται σε άλλα επιμέρους απλούστερα προβλήματα
 > - **επίλυση**, όπου υλοποιείται η λύση του προβλήματος, μέσω της λύσης των επιμέρους προβλημάτων.
 
-[![](https://mermaid.ink/img/pako:eNpVjs1qw0AMhF9F6NRC_AI-FBq7zSXQQnPz5iBs2bvE-8NaSwi2373r-NLqJM18M2jG1neMJfajv7eaosClVg7yvDeVjmYSS9MViuJtObGA9Y4fCxxfTh4m7UMwbnjd-eMGQTWfN4xBtHG3dbeqZ_7L8QJ1c6YgPlz_Ope7X-CjMd861_93dOSc-mx6KnsqWopQUXwieEDL0ZLp8vvzpigUzZYVlnntuKc0ikLl1oxSEv_zcC2WEhMfMPo0aMyd45SvFDoSrg0NkeyOrL_WfFuF?type=png)](https://mermaid.live/edit#pako:eNpVjs1qw0AMhF9F6NRC_AI-FBq7zSXQQnPz5iBs2bvE-8NaSwi2373r-NLqJM18M2jG1neMJfajv7eaosClVg7yvDeVjmYSS9MViuJtObGA9Y4fCxxfTh4m7UMwbnjd-eMGQTWfN4xBtHG3dbeqZ_7L8QJ1c6YgPlz_Ope7X-CjMd861_93dOSc-mx6KnsqWopQUXwieEDL0ZLp8vvzpigUzZYVlnntuKc0ikLl1oxSEv_zcC2WEhMfMPo0aMyd45SvFDoSrg0NkeyOrL_WfFuF)
+[![](https://mermaid.ink/img/pako:eNpVj78KwjAQh1-l3Ny-QASnrk46SZbQpH-gSUpMBikFQd1cHFx8BkE6dZC-wuWVTJWC3nT38R13vxYyzQUQKAxrymiTLqiKQuEde3_CHkd_wcEfcUiSJV5xxAe-_HkCs_kHJ-vmD_j8sSAGKYxkFQ932mmLgi2FFBRIaLnImastBaq6oDJn9XqvMiDWOBGD0a4o58E1nFmRViy8K4HkrN4F2jC11VrOkuCV1Wb1zfWJ170Be8libw?type=png)](https://mermaid.live/edit#pako:eNpVj78KwjAQh1-l3Ny-QASnrk46SZbQpH-gSUpMBikFQd1cHFx8BkE6dZC-wuWVTJWC3nT38R13vxYyzQUQKAxrymiTLqiKQuEde3_CHkd_wcEfcUiSJV5xxAe-_HkCs_kHJ-vmD_j8sSAGKYxkFQ932mmLgi2FFBRIaLnImastBaq6oDJn9XqvMiDWOBGD0a4o58E1nFmRViy8K4HkrN4F2jC11VrOkuCV1Wb1zfWJ170Be8libw)
 
 .footnote[
   [ΑΕΠΠ - Βιβλίο Μαθητή, §1.4, σελ.25](books/22-0203.pdf#page=26)
