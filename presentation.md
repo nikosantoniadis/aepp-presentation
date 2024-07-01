@@ -94,6 +94,7 @@ layout: true
 ]
 
 ---
+layout: true
 
 ### Σαφήνεια διατύπωσης
 
