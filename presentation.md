@@ -63,8 +63,19 @@ flowchart TD
     C --> D[/Εκτύπωσε γ/]
     D --> F([Τέλος])
 ```
+<script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 
-\[C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}]\
+Centred formulae: 
+
+\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
+
+
+Inline formulae:
+
+\\( x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\)
+
 
 .footnote[
   [ΑΕΠΠ - Βιβλίο Μαθητή, §1.1, σελ.15](books/22-0203.pdf#page=16)
