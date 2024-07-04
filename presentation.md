@@ -56,7 +56,7 @@ layout: true
 - απαιτεί λύση, 
 - η δε λύση της δεν είναι γνωστή, ούτε προφανής.
 
-``` mermaid
+```mermaid
 flowchart
     Client
     Server
