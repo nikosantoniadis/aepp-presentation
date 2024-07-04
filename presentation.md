@@ -12577,7 +12577,6 @@ layout: true
 
 ---
 layout: true
-class: new-book
 
 ## 4.1 Αντικειμενοστραφής Προγραμματισμός: ένας φυσικός τρόπος επίλυσης προβλημάτων
 
@@ -12649,8 +12648,6 @@ layout: true
 
 ---
 layout : true
-name: 4.3-2
-class: new-book
 
 ## 4.3 Ομαδοποίηση Αντικειμένων σε Κλάσεις: Αφαιρετικότητα και Ενθυλάκωση
 
@@ -12669,8 +12666,6 @@ class: new-book
 
 ---
 layout : true
-name: 4.4-2
-class: new-book
 
 ## 4.4 Η Αντικειμενοστραφής «Οικογένεια»: Κλάσεις - Πρόγονοι, Κλάσεις - Απόγονοι
 
@@ -12690,8 +12685,6 @@ class: new-book
 
 ---
 layout : true
-name: 4.5-2
-class: new-book
 
 ## 4.5 Ορίζοντας την Κατάλληλη Συμπεριφορά: Πολυμορφισμός
 
@@ -12709,8 +12702,6 @@ class: new-book
 
 ---
 layout : true
-name: 4.6-2
-class: new-book
 
 ## 4.6 Ερωτήσεις εμπέδωσης στην αντικειμενοστραφή προσέγγιση
 
@@ -12729,200 +12720,200 @@ layout : true
 
 ## 2001
 
-[themata_2001]: https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0601.pdf
-[themata_epan_2001]: http://dide.ilei.sch.gr/keplinet/education/docs/them_plir_kat_c_hmer_epan_0601.pdf
+[themata_2001](https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0601.pdf)
+[themata_epan_2001](http://dide.ilei.sch.gr/keplinet/education/docs/them_plir_kat_c_hmer_epan_0601.pdf)
 
 ---
 
 ## 2002
 
-[themata_2002]: https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0602.pdf
+[themata_2002](https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0602.pdf)
 
 ---
 
 ## 2003
 
-[themata_2003]: https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0603.pdf
-[themata_epan_2003]: https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_epan_0603.pdf
+[themata_2003](https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0603.pdf)
+[themata_epan_2003](https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_epan_0603.pdf)
 
 ---
 
 ## 2004
 
-[themata_2004]: https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0604.pdf
-[themata_epan_2004]: https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_epan_0604.pdf
-[themata_esper_2004]: https://apps1.minedu.gov.gr/themata/them_plir_kat_d_esp_no_0604.pdf
+[themata_2004](https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0604.pdf)
+[themata_epan_2004](https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_epan_0604.pdf)
+[themata_esper_2004](https://apps1.minedu.gov.gr/themata/them_plir_kat_d_esp_no_0604.pdf)
 
 ---
 
 ## 2005
 
-[themata_2005]: https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0605.pdf
-[themata_epan_2005]: https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_epan_0705.pdf
-[themata_epan_esper_2005]: https://apps1.minedu.gov.gr/themata/them_plir_kat_d_esp_epan_0705.pdf
+[themata_2005](https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0605.pdf)
+[themata_epan_2005](https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_epan_0705.pdf)
+[themata_epan_esper_2005](https://apps1.minedu.gov.gr/themata/them_plir_kat_d_esp_epan_0705.pdf)
 
 ---
 
 ## 2006
 
-[themata_2006]: https://apps1.minedu.gov.gr/themata/them_plir_c_kat_hmer_no_060530.pdf
-[themata_epan_2006]: https://apps1.minedu.gov.gr/themata/them_plir_c_kat_hmer_epan_060706.pdf
-[themata_epan_esper_2006]: https://apps1.minedu.gov.gr/themata/them_plir_d_kat_esp_epan_060704.pdf
+[themata_2006](https://apps1.minedu.gov.gr/themata/them_plir_c_kat_hmer_no_060530.pdf)
+[themata_epan_2006](https://apps1.minedu.gov.gr/themata/them_plir_c_kat_hmer_epan_060706.pdf)
+[themata_epan_esper_2006](https://apps1.minedu.gov.gr/themata/them_plir_d_kat_esp_epan_060704.pdf)
 
 ---
 
 ## 2007
 
-[themata_2007]: https://apps1.minedu.gov.gr/themata/them_plir_c_kat_hmer_no_070531.pdf
-[themata_epan_2007]: https://apps1.minedu.gov.gr/themata/them_plir_c_kat_hmer_epan_070704.pdf
+[themata_2007](https://apps1.minedu.gov.gr/themata/them_plir_c_kat_hmer_no_070531.pdf)
+[themata_epan_2007](https://apps1.minedu.gov.gr/themata/them_plir_c_kat_hmer_epan_070704.pdf)
 
 ---
 
 ## 2008
 
-[themata_2008]: https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0806.pdf
-[themata_epan_2008]: https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_epan_0806.pdf
-[lyseis_epan_2008]:  https://aepp.edu.gr/files/lyseis_aepp_2008_epanaliptikes.pdf
+[themata_2008](https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0806.pdf)
+[themata_epan_2008](https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_epan_0806.pdf)
+[lyseis_epan_2008](https://aepp.edu.gr/files/lyseis_aepp_2008_epanaliptikes.pdf)
 
 ---
 
 ## 2009
 
-[themata_2009]: https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0906.pdf
-[lyseis_2009]:  https://aepp.edu.gr/files/lyseis_aepp_2009.pdf
-[themata_epan_2009]: https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_epan_0906.pdf
-[lyseis_epan_2009]:  https://aepp.edu.gr/files/lyseis_aepp_2009_epanaliptikes.pdf
+[themata_2009](https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_no_0906.pdf)
+[lyseis_2009](https://aepp.edu.gr/files/lyseis_aepp_2009.pdf)
+[themata_epan_2009](https://apps1.minedu.gov.gr/themata/them_plir_kat_c_hmer_epan_0906.pdf)
+[lyseis_epan_2009](https://aepp.edu.gr/files/lyseis_aepp_2009_epanaliptikes.pdf)
 
 ---
 
 ## 2010
 
-[themata_2010]: https://aepp.edu.gr/files/aepp_2010_imerisia.pdf
-[lyseis_2010]:  https://aepp.edu.gr/files/lyseis_aepp_2010.pdf
-[themata_epan_2010]: https://aepp.edu.gr/files/aepp_2010_imerisia_epanaliptikes.pdf
-[lyseis_epan_2010]:  https://aepp.edu.gr/files/lyseis_aepp_2010_epanaliptikes.pdf
+[themata_2010](https://aepp.edu.gr/files/aepp_2010_imerisia.pdf)
+[lyseis_2010](https://aepp.edu.gr/files/lyseis_aepp_2010.pdf)
+[themata_epan_2010](https://aepp.edu.gr/files/aepp_2010_imerisia_epanaliptikes.pdf)
+[lyseis_epan_2010](https://aepp.edu.gr/files/lyseis_aepp_2010_epanaliptikes.pdf)
 
 ---
 
 ## 2011
 
-[themata_2011]: https://aepp.edu.gr/files/aepp_2011_imerisia.pdf
-[lyseis_2011]:  https://aepp.edu.gr/files/lyseis_aepp_2011.pdf
-[themata_epan_2011]: https://aepp.edu.gr/files/aepp_2011_imerisia_epanaliptikes.pdf
-[lyseis_epan_2011]:  https://aepp.edu.gr/files/lyseis_aepp_2011_epanaliptikes.pdf
+[themata_2011](https://aepp.edu.gr/files/aepp_2011_imerisia.pdf)
+[lyseis_2011](https://aepp.edu.gr/files/lyseis_aepp_2011.pdf)
+[themata_epan_2011](https://aepp.edu.gr/files/aepp_2011_imerisia_epanaliptikes.pdf)
+[lyseis_epan_2011](https://aepp.edu.gr/files/lyseis_aepp_2011_epanaliptikes.pdf)
 
 ---
 
 ## 2012
 
-[themata_2012]: https://aepp.edu.gr/files/aepp_2012_imerisia.pdf
-[lyseis_2012]:  https://aepp.edu.gr/files/lyseis_aepp_2012.pdf
-[themata_epan_2012]: https://aepp.edu.gr/files/aepp_2012_imerisia_epanaliptikes.pdf
-[lyseis_epan_2012]:  https://aepp.edu.gr/files/lyseis_aepp_2012_epanaliptikes.pdf
+[themata_2012](https://aepp.edu.gr/files/aepp_2012_imerisia.pdf)
+[lyseis_2012](https://aepp.edu.gr/files/lyseis_aepp_2012.pdf)
+[themata_epan_2012](https://aepp.edu.gr/files/aepp_2012_imerisia_epanaliptikes.pdf)
+[lyseis_epan_2012](https://aepp.edu.gr/files/lyseis_aepp_2012_epanaliptikes.pdf)
 
 ---
 
 ## 2013
 
-[themata_2013]: https://aepp.edu.gr/files/aepp_2013_imerisia.pdf
-[lyseis_2013]:  https://aepp.edu.gr/files/lyseis_aepp_2013.pdf
-[themata_esper_2013]: https://aepp.edu.gr/files/aepp_2013_esperina.pdf
-[lyseis_esper_2013]:  https://aepp.edu.gr/files/lyseis_aepp_2013_esperina.pdf
-[themata_epan_2013]: https://aepp.edu.gr/files/aepp_2013_imerisia_epanaliptikes.pdf
-[lyseis_epan_2013]:  https://aepp.edu.gr/files/lyseis_aepp_2013_epanaliptikes.pdf
+[themata_2013](https://aepp.edu.gr/files/aepp_2013_imerisia.pdf)
+[lyseis_2013](https://aepp.edu.gr/files/lyseis_aepp_2013.pdf)
+[themata_esper_2013](https://aepp.edu.gr/files/aepp_2013_esperina.pdf)
+[lyseis_esper_2013](https://aepp.edu.gr/files/lyseis_aepp_2013_esperina.pdf)
+[themata_epan_2013](https://aepp.edu.gr/files/aepp_2013_imerisia_epanaliptikes.pdf)
+[lyseis_epan_2013](https://aepp.edu.gr/files/lyseis_aepp_2013_epanaliptikes.pdf)
 
 ---
 
 ## 2014
 
-[themata_2014]: https://aepp.edu.gr/files/aepp_2014_imerisia.pdf
-[lyseis_2014]:  https://aepp.edu.gr/files/lyseis_aepp_2014.pdf
-[themata_epan_2014]: https://aepp.edu.gr/files/aepp_2014_imerisia_epanaliptikes.pdf
-[lyseis_epan_2014]:  https://aepp.edu.gr/files/lyseis_aepp_2014_epanaliptikes.pdf
+[themata_2014](https://aepp.edu.gr/files/aepp_2014_imerisia.pdf)
+[lyseis_2014](https://aepp.edu.gr/files/lyseis_aepp_2014.pdf)
+[themata_epan_2014](https://aepp.edu.gr/files/aepp_2014_imerisia_epanaliptikes.pdf)
+[lyseis_epan_2014](https://aepp.edu.gr/files/lyseis_aepp_2014_epanaliptikes.pdf)
 
 ---
 
 ## 2015
 
-[themata_2015]: https://aepp.edu.gr/files/aepp_2015_imerisia.pdf
-[lyseis_2015]:  https://aepp.edu.gr/files/lyseis_aepp_2015.pdf
-[themata_epan_2015]: https://aepp.edu.gr/files/aepp_2015_imerisia_epanaliptikes.pdf
-[lyseis_epan_2015]:  https://aepp.edu.gr/files/lyseis_aepp_2015_epanaliptikes.pdf
+[themata_2015](https://aepp.edu.gr/files/aepp_2015_imerisia.pdf)
+[lyseis_2015](https://aepp.edu.gr/files/lyseis_aepp_2015.pdf)
+[themata_epan_2015](https://aepp.edu.gr/files/aepp_2015_imerisia_epanaliptikes.pdf)
+[lyseis_epan_2015](https://aepp.edu.gr/files/lyseis_aepp_2015_epanaliptikes.pdf)
 
 ---
 
 ## 2016
 
-[themata_ps_2016]: https://www.minedu.gov.gr/publications/docs2016/EXETASEIS-2016/them_plir_kat_c_hmer_os_160527.pdf
-[lyseis_ps_2016]:  https://aepp.edu.gr/files/lyseis_aepp_2016_palaio.pdf
-[themata_ns_2016]: https://www.minedu.gov.gr/publications/docs2016/EXETASEIS-2016/them_plir_op_c_hmer_ns_160527.pdf
-[lyseis_ns_2016]:  https://aepp.edu.gr/files/lyseis_aepp_2016_neo.pdf
-[themata_omog_2016]: https://drive.google.com/file/d/0Bx_ILDAH7qb3emJJX2diTTdSbWc/view
-[lyseis_omog_2016]: https://drive.google.com/file/d/0Bx_ILDAH7qb3UTRFdkgxajRHN00/view
-[themata_epan_ps_2016]: https://aepp.edu.gr/files/aepp_2016_imerisia_palaio_epanaliptikes.pdf
-[lyseis_epan_ps_2016]:  https://aepp.edu.gr/files/lyseis_aepp_2016_imerisia_palaio_epanaliptikes.pdf
-[themata_epan_ns_2016]: https://aepp.edu.gr/files/aepp_2016_imerisia_neo_epanaliptikes.pdf
-[lyseis_epan_ns_2016]:  https://aepp.edu.gr/files/lyseis_aepp_2016_imerisia_neo_epanaliptikes.pdf
+[themata_ps_2016](https://www.minedu.gov.gr/publications/docs2016/EXETASEIS-2016/them_plir_kat_c_hmer_os_160527.pdf)
+[lyseis_ps_2016](https://aepp.edu.gr/files/lyseis_aepp_2016_palaio.pdf)
+[themata_ns_2016](https://www.minedu.gov.gr/publications/docs2016/EXETASEIS-2016/them_plir_op_c_hmer_ns_160527.pdf)
+[lyseis_ns_2016](https://aepp.edu.gr/files/lyseis_aepp_2016_neo.pdf)
+[themata_omog_2016](https://drive.google.com/file/d/0Bx_ILDAH7qb3emJJX2diTTdSbWc/view)
+[lyseis_omog_2016](https://drive.google.com/file/d/0Bx_ILDAH7qb3UTRFdkgxajRHN00/view)
+[themata_epan_ps_2016](https://aepp.edu.gr/files/aepp_2016_imerisia_palaio_epanaliptikes.pdf)
+[lyseis_epan_ps_2016](https://aepp.edu.gr/files/lyseis_aepp_2016_imerisia_palaio_epanaliptikes.pdf)
+[themata_epan_ns_2016](https://aepp.edu.gr/files/aepp_2016_imerisia_neo_epanaliptikes.pdf)
+[lyseis_epan_ns_2016](https://aepp.edu.gr/files/lyseis_aepp_2016_imerisia_neo_epanaliptikes.pdf)
 
 ---
 
 ## 2017
 
-[themata_2017]: https://aepp.edu.gr/files/aepp_2017_imerisia.pdf
-[lyseis_2017]:  https://aepp.edu.gr/files/lyseis_aepp_2017.pdf
-[themata_epan_2017]: https://aepp.edu.gr/files/aepp_2017_imerisia_epanaliptikes.pdf
-[lyseis_epan_2017]:  https://aepp.edu.gr/files/lyseis_aepp_2017_epanaliptikes.pdf
+[themata_2017](https://aepp.edu.gr/files/aepp_2017_imerisia.pdf)
+[lyseis_2017](https://aepp.edu.gr/files/lyseis_aepp_2017.pdf)
+[themata_epan_2017](https://aepp.edu.gr/files/aepp_2017_imerisia_epanaliptikes.pdf)
+[lyseis_epan_2017](https://aepp.edu.gr/files/lyseis_aepp_2017_epanaliptikes.pdf)
 
 ---
 
 ## 2018
 
-[themata_2018]: https://aepp.edu.gr/files/aepp_2018_imerisia.pdf
-[lyseis_2018]:  https://aepp.edu.gr/files/lyseis_aepp_2018.pdf
-[themata_epan_2018]: https://aepp.edu.gr/files/aepp_2018_imerisia_epanaliptikes.pdf
-[lyseis_epan_2018]:  https://aepp.edu.gr/files/lyseis_aepp_2018_epanaliptikes.pdf
+[themata_2018](https://aepp.edu.gr/files/aepp_2018_imerisia.pdf)
+[lyseis_2018](https://aepp.edu.gr/files/lyseis_aepp_2018.pdf)
+[themata_epan_2018](https://aepp.edu.gr/files/aepp_2018_imerisia_epanaliptikes.pdf)
+[lyseis_epan_2018](https://aepp.edu.gr/files/lyseis_aepp_2018_epanaliptikes.pdf)
 
 ---
 
 ## 2019
 
-[themata_2019]: https://aepp.edu.gr/files/aepp_2019_imerisia.pdf
-[lyseis_2019]:  https://aepp.edu.gr/files/lyseis_aepp_2019.pdf
-[themata_esper_2019]: https://apps1.minedu.gov.gr/themata/them_plir_op_d_esp_190612.pdf
-[themata_epan_2019]: https://aepp.edu.gr/files/aepp_2019_imerisia_epanaliptikes.pdf
-[lyseis_epan_2019]:  https://aepp.edu.gr/files/lyseis_aepp_2019_epanaliptikes.pdf
+[themata_2019](https://aepp.edu.gr/files/aepp_2019_imerisia.pdf)
+[lyseis_2019](https://aepp.edu.gr/files/lyseis_aepp_2019.pdf)
+[themata_esper_2019](https://apps1.minedu.gov.gr/themata/them_plir_op_d_esp_190612.pdf)
+[themata_epan_2019](https://aepp.edu.gr/files/aepp_2019_imerisia_epanaliptikes.pdf)
+[lyseis_epan_2019](https://aepp.edu.gr/files/lyseis_aepp_2019_epanaliptikes.pdf)
 
 ---
 
 ## 2020
 
-[themata_ps_2020]: https://aepp.edu.gr/files/aepp_2020_imerisia_palaio.pdf
-[lyseis_ps_2020]:  https://aepp.edu.gr/files/lyseis_aepp_2020_palaio.pdf
-[themata_ns_2020]: https://apps1.minedu.gov.gr/themata/them_Plhrof_op_NEO_200624.pdf
-[lyseis_ns_2020]:  https://aepp.edu.gr/files/lyseis_pliroforiki_2020_imerisia_esperina_neo.pdf
-[themata_epan_ps_2020]: https://aepp.edu.gr/files/aepp_2020_imerisia_esperina_palaio_epanaliptikes.pdf
-[themata_epan_ns_2020]: https://aepp.edu.gr/files/pliroforiki_2020_imerisia_esperina_epanaliptikes.pdf
+[themata_ps_2020](https://aepp.edu.gr/files/aepp_2020_imerisia_palaio.pdf)
+[lyseis_ps_2020](https://aepp.edu.gr/files/lyseis_aepp_2020_palaio.pdf)
+[themata_ns_2020](https://apps1.minedu.gov.gr/themata/them_Plhrof_op_NEO_200624.pdf)
+[lyseis_ns_2020](https://aepp.edu.gr/files/lyseis_pliroforiki_2020_imerisia_esperina_neo.pdf)
+[themata_epan_ps_2020](https://aepp.edu.gr/files/aepp_2020_imerisia_esperina_palaio_epanaliptikes.pdf)
+[themata_epan_ns_2020](https://aepp.edu.gr/files/pliroforiki_2020_imerisia_esperina_epanaliptikes.pdf)
 
 ---
 
 ## 2021
-[themata_2021]: https://apps1.minedu.gov.gr/themata/PLHROFORIKH_NEO_HM_2021_10.pdf
-[themata_epan_2021]: https://apps1.minedu.gov.gr/themata/ΑΝΑΠΤΥΞΗ_ΕΦΑΡΜΟΓΩΝ_ΕΠΑΝΑΛ_2021_17.pdf
+[themata_2021](https://apps1.minedu.gov.gr/themata/PLHROFORIKH_NEO_HM_2021_10.pdf)
+[themata_epan_2021](https://apps1.minedu.gov.gr/themata/ΑΝΑΠΤΥΞΗ_ΕΦΑΡΜΟΓΩΝ_ΕΠΑΝΑΛ_2021_17.pdf)
 
 ---
 
 ## 2022
 
-[themata_2022]: https://kathigitis-aepp.gr/wp-content/uploads/2022/06/themata-aepp-panellinies-2022.pdf
-[lyseis_2022]:  https://kathigitis-aepp.gr/wp-content/uploads/2022/06/liseis-aepp-panellinies-2022.pdf
-[themata_epan_2022]: https://drive.google.com/file/d/1AKojPuN-Lh2803BcEFo0-96GMFT78Huh/view?usp=sharing
-[lyseis_epan_2022]: https://drive.google.com/file/d/1AVsQ3KqDFXU6iRg5e4E-YMjxbO_CM741/view?usp=sharing
+[themata_2022](https://kathigitis-aepp.gr/wp-content/uploads/2022/06/themata-aepp-panellinies-2022.pdf)
+[lyseis_2022](https://kathigitis-aepp.gr/wp-content/uploads/2022/06/liseis-aepp-panellinies-2022.pdf)
+[themata_epan_2022](https://drive.google.com/file/d/1AKojPuN-Lh2803BcEFo0-96GMFT78Huh/view?usp=sharing)
+[lyseis_epan_2022](https://drive.google.com/file/d/1AVsQ3KqDFXU6iRg5e4E-YMjxbO_CM741/view?usp=sharing)
 
 ---
 
 ## 2023
 
-[themata_2023]: https://kathigitis-aepp.gr/wp-content/uploads/2023/06/themata-panelliniwn-aepp-2023.pdf
-[lyseis_2023]:  https://kathigitis-aepp.gr/wp-content/uploads/2023/06/liseis-panelliniwn-aepp-2023.pdf
-[themata_epan_2023]: https://drive.google.com/file/d/1eC1aWdlFdOBWEZYaru5QlLDbCUy5MjKm/view?usp=drive_link
-[lyseis_epan_2023]: https://drive.google.com/file/d/1dgKVgerNU7uxN_nFI_t4Dphp4nbu-DR-/view?usp=drive_link
+[themata_2023](https://kathigitis-aepp.gr/wp-content/uploads/2023/06/themata-panelliniwn-aepp-2023.pdf)
+[lyseis_2023](https://kathigitis-aepp.gr/wp-content/uploads/2023/06/liseis-panelliniwn-aepp-2023.pdf)
+[themata_epan_2023](https://drive.google.com/file/d/1eC1aWdlFdOBWEZYaru5QlLDbCUy5MjKm/view?usp=drive_link)
+[lyseis_epan_2023](https://drive.google.com/file/d/1dgKVgerNU7uxN_nFI_t4Dphp4nbu-DR-/view?usp=drive_link)
