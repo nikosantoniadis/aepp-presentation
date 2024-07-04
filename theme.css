@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans|Fira+Sans+Extra+Condensed|Fira+Code);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Fira+Sans+Extra+Condensed|Fira+Mono);
 
 body {
 	font-family: 'Open Sans', sans-serif;
@@ -235,7 +235,7 @@ img {
 	}
 
 .remark-code, .remark-inline-code {
-	font-family: 'Fira Code', monospace;
+	font-family: 'Fira Mono', monospace;
 	border-radius: .25em;
 }
 
