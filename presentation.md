@@ -57,10 +57,11 @@ layout: true
 - η δε λύση της δεν είναι γνωστή, ούτε προφανής.
 
 ```mermaid
-flowchart
-    Client
-    Server
-    Database
+flowchart TD
+    A([Αρχή]) --> B[/Διάβασε α, β/]
+    B --> C[γ <- α + β]
+    C --> D[/Εκτύπωσε γ/]
+    D --> F([Τέλος])
 ```
 
 $$C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}$$
