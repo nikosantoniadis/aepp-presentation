@@ -63,6 +63,8 @@ flowchart
     Database
 ```
 
+$$C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}$$
+
 .footnote[
   [ΑΕΠΠ - Βιβλίο Μαθητή, §1.1, σελ.15](books/22-0203.pdf#page=16)
 ]
