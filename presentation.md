@@ -12707,6 +12707,8 @@ layout: true
 
 ---
 
+### Ερωτήσεις
+
 .footnote[
   [ΠΛΗΡΟΦΟΡΙΚΗ - Βιβλίο Μαθητή - Συμπληρωματικό Εκπαιδευτικό Υλικό, §4.6, σελ.109-112](books/22-0260.pdf#page=109)
 ]
@@ -12714,7 +12716,7 @@ layout: true
 ---
 layout : true
 
-## ΠΑΛΙΑ ΘΕΜΑΤΑ ΠΑΝΕΛΛΑΔΙΚΩΝ
+## Παλιά θέματα Πανελλαδικών
 
 ---
 
@@ -12918,3 +12920,10 @@ layout : true
 - [lyseis_2023](https://kathigitis-aepp.gr/wp-content/uploads/2023/06/liseis-panelliniwn-aepp-2023.pdf)
 - [themata_epan_2023](https://drive.google.com/file/d/1eC1aWdlFdOBWEZYaru5QlLDbCUy5MjKm/view?usp=drive_link)
 - [lyseis_epan_2023](https://drive.google.com/file/d/1dgKVgerNU7uxN_nFI_t4Dphp4nbu-DR-/view?usp=drive_link)
+
+---
+
+## 2024
+
+- [Θέματα 2024](https://www.minedu.gov.gr/publications/docs2024/panelladikes_2024_iounios/them_plirof_gel_240606.pdf)
+- [Λύσεις 2024](https://www.panellinies.net/wp-content/uploads/2024/06/aepp_2024_ap23.pdf)
