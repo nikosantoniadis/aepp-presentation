@@ -1293,7 +1293,7 @@ x DIV 1 → x       x MOD 1 → 0
 
 x DIV x → 1       x MOD x → 0
 
-x DIV y → 0       x MOD y → y,    όταν x < y
+x DIV y → 0       x MOD y → x,    όταν x < y
 ```
 
 ---
